@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="IMG_1573.jpeg" alt="OpenSatellite Logo" width="220"/>
+</p>
+
 # 🛰️ OpenSatellite
 
 **OpenSatellite** is an open-source initiative dedicated to the development, standardization, and testing of flight software and core modules for space missions.
