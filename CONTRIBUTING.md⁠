@@ -1,0 +1,9 @@
+# Contributing Guidelines for OpenSatellite
+
+Thank you for your interest in contributing to OpenSatellite! Since this software is designed for real-world space missions of any scale, we maintain a very high standard for code quality and security.
+
+## Guidelines for Submitting Code:
+1. **No Direct Commits:** No code is pushed directly to `main`. All additions must come through a **Pull Request (PR)**.
+2. **Code Audits:** Every PR will be thoroughly audited for memory leaks, logical bugs, and adherence to safety standards.
+3. **Unit Tests:** You must include unit tests for any new module, driver, or critical function.
+4. **Documentation:** Include clear comments and instructions on how to test your code in a simulated environment.
